@@ -1,0 +1,103 @@
+.nav {
+    width: 90%;
+    height: 80px;
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    left: 120px;
+    top: 10px;
+    padding: 1px;
+    font-weight: 400;
+}
+
+.nav_itm {
+    display: flex;
+    gap: 10px;
+    font-family: sans-serif;
+}
+
+.kotak {
+    height: 300px;
+    width: 1520px;
+    background-color: rgb(15, 35, 214);
+    border-radius: 0%;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin: 0;
+}
+
+.text {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.card {
+    margin: 0;
+    height: 390px;
+    width: 280px;
+    background-color: rgb(219, 219, 222);
+    border-radius: 0%;
+    justify-content: flex-start;
+    margin-top: -374px;
+    margin-left: 0px;
+    margin-right: 0;
+}
+
+p {
+    margin: 0;
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 30px;
+}
+
+.cpy {
+    height: 50px;
+    width: 1500px;
+    background-color: rgb(15, 35, 214);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    display: flex;
+    padding-left: 50px;
+    margin-top: 10px;
+    padding-top: 140px;
+    justify-content: center;
+    align-items: center;
+}
+
+.user{
+    display: flex;
+    padding-right: 474px;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sandi{
+    display: flex;
+    padding-right: 164px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    display: flex;
+    margin-top: 80px;
+    justify-content: space-around;
+}
